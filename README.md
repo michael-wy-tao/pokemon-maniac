@@ -21,3 +21,4 @@ Future Improvement:
 10. Instead of randomly pick ally pokemon and enemy pokemon, have the user walk on a grass field to encounter next enemy pokemon
 11. Maybe implement a catching pokemon feature
 12. Make sure app is compatible on android/ios, and all kinds of browsers (so far only tested on Chrome and IE)
+13. Make search function available in the Pokedex
