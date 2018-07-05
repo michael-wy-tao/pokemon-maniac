@@ -1,0 +1,23 @@
+.button {
+   
+    font-size: 1vw;
+    background-color: #fcc989;
+    background-image: linear-gradient(to bottom,#fcc989, #d278f2);
+    color: black;
+    border: 2px solid rgb(76, 122, 175); 
+    margin: 2px 2px;
+}
+
+.img {
+    display: block;
+    max-width: 95px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+  }
+
+  h1 {
+    text-align: center;
+    font-family: 'Bowlby One SC', cursive;
+    font-size: 1vw;
+  }
